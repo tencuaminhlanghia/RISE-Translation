@@ -14,7 +14,7 @@ $lang["cancel"] = "Huỷ bỏ";
 $lang["save"] = "Lưu";
 $lang["delete"] = "Xoá";
 $lang["description"] = "Mô tả";
-$lang["admin"] = "Adminn";
+$lang["admin"] = "Quản trị viên";
 $lang["manager"] = "Người quản lý";
 $lang["options"] = "Tuỳ chọn";
 $lang["id"] = "ID";
@@ -231,25 +231,25 @@ $lang["all_team_members"] = "Tất cả các thành viên trong nhóm";
 $lang["all_team_clients"] = "Tất cả khách hàng";
 
 /* settings */
-$lang["app_settings"] = "App Settings";
-$lang["app_title"] = "App Title";
-$lang["site_logo"] = "Site Logo";
-$lang["invoice_logo"] = "Invoice Logo";
+$lang["app_settings"] = "Cài đặt hệ thống";
+$lang["app_title"] = "Tiều đề website";
+$lang["site_logo"] = "Logo";
+$lang["invoice_logo"] = "Logo trên hóa đơn";
 $lang["timezone"] = "Timezone";
-$lang["date_format"] = "Date Format";
-$lang["time_format"] = "Time Format";
-$lang["first_day_of_week"] = "First Day of Week";
-$lang["currency_symbol"] = "Currency Symbol";
+$lang["date_format"] = "Định dạng ngày";
+$lang["time_format"] = "Định dạng giờ";
+$lang["first_day_of_week"] = "Ngày bắt đầu tuần";
+$lang["currency_symbol"] = "Biểu tượng đơn vị tiền tệ";
 $lang["general"] = "General";
 $lang["general_settings"] = "General Settings";
-$lang["item_purchase_code"] = "Item Purchase Code";
+$lang["item_purchase_code"] = "Purchase Code";
 $lang["company"] = "Công ty";
 $lang["company_settings"] = "Cài đặt công ty";
-$lang["email_settings"] = "Email Settings";
-$lang["payment_methods"] = "Payment Methods";
-$lang["email_sent_from_address"] = "Email sent from address";
-$lang["email_sent_from_name"] = "Email sent from name";
-$lang["email_use_smtp"] = "Use SMTP";
+$lang["email_settings"] = "Cài đặt Email";
+$lang["payment_methods"] = "Các phương thức thanh toán";
+$lang["email_sent_from_address"] = "Địa chỉ email dùng để gửi đi";
+$lang["email_sent_from_name"] = "Tên dùng để gửi đi";
+$lang["email_use_smtp"] = "Sử dụng SMTP";
 $lang["email_smtp_host"] = "SMTP Host";
 $lang["email_smtp_user"] = "SMTP User";
 $lang["email_smtp_password"] = "SMTP Password";
@@ -257,10 +257,10 @@ $lang["email_smtp_port"] = "SMTP Port";
 $lang["send_test_mail_to"] = "Send a test mail to";
 $lang["test_mail_sent"] = "The test mail has been sent!";
 $lang["test_mail_send_failed"] = "Failed to send the test email.";
-$lang["settings"] = "Settings";
-$lang["updates"] = "Updates";
-$lang["current_version"] = "Current Version";
-$lang["language"] = "Language";
+$lang["settings"] = "Cài đặt";
+$lang["updates"] = "Cập nhật";
+$lang["current_version"] = "Phiên bản hiện tại";
+$lang["language"] = "Ngôn ngữ";
 $lang["ip_restriction"] = "IP Restriction";
 $lang["varification_failed_message"] = "Sorry, we could not verify your item purchase code.";
 $lang["enter_one_ip_per_line"] = "Enter one IP per line. Keep it blank to allow all IPs. *Admin users will not be affected.";
@@ -671,11 +671,11 @@ $lang["project_customer_feedback_added"] = "Đã thêm phản hồi của khách
 $lang["project_customer_feedback_replied"] = "Phản hồi của khách hàng đã trả lời";
 $lang["client_signup"] = "Đăng ký khách hàng";
 $lang["invoice_online_payment_received"] = "Hóa đơn thanh toán trực tuyến đã nhận";
-$lang["leave_application_submitted"] = "Để lại đơn đăng ký đã gửi";
-$lang["leave_approved"] = "Rời khỏi đã được phê duyệt";
-$lang["leave_assigned"] = "Leave assigned";
-$lang["leave_rejected"] = "Leave rejected";
-$lang["leave_canceled"] = "Leave canceled";
+$lang["leave_application_submitted"] = "Đăng ký xin nghỉ đã được gửi";
+$lang["leave_approved"] = "Xin nghỉ được phê duyệt";
+$lang["leave_assigned"] = "Xin nghỉ được cấp";
+$lang["leave_rejected"] = "Xin nghỉ bị từ chối";
+$lang["leave_canceled"] = "Xin nghỉ bị hủy";
 $lang["ticket_created"] = "Ticket đã được tạo";
 $lang["ticket_commented"] = "Ticket đã được phản hồi";
 $lang["ticket_closed"] = "Ticket đã đóng";
@@ -855,18 +855,18 @@ $lang["min_thursday"] = "T5";
 $lang["min_friday"] = "T6";
 $lang["min_saturday"] = "T7";
 
-$lang["january"] = "Tháng một";
-$lang["february"] = "Tháng hai";
-$lang["march"] = "Tháng ba";
-$lang["april"] = "Tháng tư";
-$lang["may"] = "Tháng năm";
-$lang["june"] = "Tháng sáu";
-$lang["july"] = "Tháng bảy";
-$lang["august"] = "Tháng tám";
-$lang["september"] = "Tháng 9";
-$lang["october"] = "Tháng 10";
-$lang["november"] = "Tháng 11";
-$lang["december"] = "Tháng 12";
+$lang["january"] = "Tháng Một";
+$lang["february"] = "Tháng Hai";
+$lang["march"] = "Tháng Ba";
+$lang["april"] = "Tháng Tư";
+$lang["may"] = "Tháng Năm";
+$lang["june"] = "Tháng Sáu";
+$lang["july"] = "Tháng Bảy";
+$lang["august"] = "Tháng Tám";
+$lang["september"] = "Tháng Chín";
+$lang["october"] = "Tháng Mười";
+$lang["november"] = "Tháng Mười Một";
+$lang["december"] = "Tháng Mười Hai";
 
 $lang["short_january"] = "Tháng 1";
 $lang["short_february"] = "Tháng 2";
@@ -1665,7 +1665,7 @@ $lang["move_all_tasks_to_to_do"] = "Di chuyển tất cả Công việc sang Vi�
 
 $lang["started"] = "Bắt đầu";
 
-$lang["weekends"] = "Weekends";
+$lang["weekends"] = "Cuối tuần";
 
 $lang["invited_client_contact_signed_up"] = "Invited client contact signed up";
 $lang["notification_invited_client_contact_signed_up"] = "Invited client contact signed up.";
@@ -1682,7 +1682,7 @@ $lang["requested_by"] = "Requested by";
 
 $lang["create_new_projects_automatically_when_estimates_gets_accepted"] = "Create new projects automatically when estimates gets accepted";
 
-$lang["typing"] = "Typing";
+$lang["typing"] = "Đang gõ";
 
 $lang["new_client_greetings"] = "New client greetings";
 
@@ -1837,7 +1837,7 @@ $lang["find_more_items"] = "Find more items";
 
 /* Version 2.8 */
 
-$lang["reports"] = "Reports";
+$lang["reports"] = "Báo cáo";
 
 $lang["yes_all_estimates"] = "Yes, all estimates";
 $lang["yes_only_own_estimates"] = "Yes, only own estimates";
@@ -2096,12 +2096,13 @@ $lang["default_contract_template"] = "Default contract template";
 
 $lang["default_proposal_template"] = "Default proposal template";
 
-$lang["signed_date"] = "Signed date";
+$lang["signed_date"] = "Ngày ký";
 
 $lang["add_signature_option_on_accepting_contract"] = "Add signature option on accepting contract";
 $lang["accept"] = "Accept";
 $lang["signer_info"] = "Signer info";
 $lang["default_template"] = "Default template";
 $lang["change_template"] = "Change template";
+$lang["progression"]= "Tiến độ";
 
 return $lang;

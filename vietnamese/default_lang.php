@@ -1419,8 +1419,8 @@ $lang["marked_as_public"] = "Đã được đánh dấu là công khai";
 $lang["client_can_view_activity"] = "Khách hàng có thể xem hoạt động của dự án";
 
 $lang["event_settings"] = "Cài đặt sự kiện";
-$lang["enable_google_calendar_api"] = "Kích hoạt Google calendar API";
-$lang["google_calendar_settings"] = "Cài đặt Google calendar";
+$lang["enable_google_calendar_api"] = "Kích hoạt Google Calendar API";
+$lang["google_calendar_settings"] = "Cài đặt Google Calendar";
 
 $lang["your_calendar_ids"] = "Nhập Calendar IDs";
 $lang["calendar_id"] = "Calendar ID";
@@ -1429,7 +1429,7 @@ $lang["calendar_ids_help_message"] = "Bạn sẽ luôn nhận được các sự
 
 $lang["google_client_id"] = "Client ID";
 $lang["google_client_secret"] = "Client secret";
-$lang["integrate_with_google_calendar"] = "Tích hợp với Google calendar";
+$lang["integrate_with_google_calendar"] = "Tích hợp với Google Calendar";
 $lang["google_calendar_event"] = "Google Calendar event";
 
 $lang["mark_as_public_help_message"] = "Bạn không thể đặt ghi chú này ở chế độ riêng tư một lần nữa.";
@@ -1589,7 +1589,7 @@ $lang["can_send_messages_to_specific_members_or_teams"] = "Có thể gửi tin n
 $lang["embed"] = "Nhúng";
 $lang["copy"] = "Sao chép";
 
-$lang["estimate_prefix"] = "báo giá tiền tố";
+$lang["estimate_prefix"] = "Tiền tố của báo giá";
 
 $lang["likes"] = "Thích";
 
@@ -1804,7 +1804,7 @@ $lang["has_overdue_invoices"] = "Has overdue invoices";
 $lang["has_partially_paid_invoices"] = "Has partially paid invoices";
 $lang["assignee"] = "Assignee";
 
-$lang["upload_and_crop"] = "Upload and crop";
+$lang["upload_and_crop"] = "Tải lên và cắt";
 
 $lang["active_members_on_projects"] = "Active members on projects";
 
@@ -1881,12 +1881,12 @@ $lang["set_timeline_permissions"] = "Set timeline permissions";
 $lang["cant_see_the_timeline"] = "Can't see the Timeline";
 $lang["can_see_timeline_posts_from_specific_members_or_teams"] = "Can see timeline posts from specific members or teams:";
 
-$lang["localization"] = "Localization";
-$lang["localization_settings"] = "Localization Settings";
+$lang["localization"] = "Ngôn ngữ";
+$lang["localization_settings"] = "Cài đặt ngôn ngữ";
 $lang["main_task"] = "Main task";
 
-$lang["select_all"] = "Select all";
-$lang["unselect_all"] = "Unselect all";
+$lang["select_all"] = "Chọn tất cả";
+$lang["unselect_all"] = "Bỏ chọn tất cả";
 
 $lang["plugins"] = "Plugins";
 $lang["install_plugin"] = "Install plugin";
@@ -2081,7 +2081,7 @@ $lang["add_multiple_contacts"] = "Add multiple contacts";
 
 $lang["total_invoiced"] = "Total invoiced";
 
-$lang["show_sub_tasks"] = "Show sub tasks";
+$lang["show_sub_tasks"] = "Hiển thị đầu việc phụ";
 
 $lang["add_signature_option_on_accepting_estimate"] = "Add signature option on accepting estimate";
 $lang["accept_estimate"] = "Accept estimate";
@@ -2098,11 +2098,12 @@ $lang["default_proposal_template"] = "Default proposal template";
 
 $lang["signed_date"] = "Ngày ký";
 
-$lang["add_signature_option_on_accepting_contract"] = "Add signature option on accepting contract";
-$lang["accept"] = "Accept";
-$lang["signer_info"] = "Signer info";
-$lang["default_template"] = "Default template";
-$lang["change_template"] = "Change template";
-$lang["progression"]= "Tiến độ";
+$lang["add_signature_option_on_accepting_contract"] = "Thêm tùy chọn ký tên khi Chấp thuận hợp đồng";
+$lang["accept"] = "Chấp nhận";
+$lang["signer_info"] = "Thông tin người ký";
+$lang["default_template"] = "Mẫu mặc định";
+$lang["change_template"] = "Thay đổi mẫu";
+$lang["progression"] = "Tiến độ";
+$lang["invoice_overview"] = "Tổng quan về hóa đơn";
 
 return $lang;
